@@ -1,0 +1,28 @@
+## Interface: 11200
+## Title: 魂斗罗-输出助手
+## Author: 音十月-卡拉赞
+## Version: 0.0.5
+## Notes: 魂斗罗-战士助手4.0.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: ContraDB
+
+Contra_Guids.lua
+Contra_Casting.lua
+Contra_TOOLS.lua
+Contra_Fliter.lua
+Contra_DB.lua
+Contra_TTD.lua
+Contra_Debuff.lua
+Contra_Lib.lua
+Contra_Onlogin.lua
+Contra_UI_DB.lua
+Contra_UI_Main.lua
+Contra_UI_Mage.lua
+Contra_UI_Rogue.lua
+Contra_UI_Minimap.lua
+Contra_TrinketManager.lua
+Contra_Script.lua
+Contra_Script_Rogue.lua
+Contra_Script_Mage.lua
+Contra_Macro.lua
